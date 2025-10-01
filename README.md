@@ -1,4 +1,4 @@
-![MasterHead](https://files.fm/f/wsnuafra9u)
+![MasterHead](https://i.im.ge/2025/09/23/n9nnMC.BANNER1.png)
 
 <h1 align="center">Hi 👋, I'm Sasha (retr0stack)</h1>
 <h3 align="center">I enjoy experimenting with code, solving problems, and building small tools that make life easier.</h3>
